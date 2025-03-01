@@ -2,6 +2,11 @@
 
 <br>
 
+> [!NAMA PROJECT]
+> **<code style="color : lightskyblue">Aplikasi Pengelolaan Data dan Perhitungan Emisi Karbon Perjalanan Karyawan Dari Rumah Ke Kantor (Employee Computing)</code>**
+
+<br>
+
 - :diamonds: Fitrah Septiandwi Sensi <sup><code>**Project Manager**</code></sup> <sup><code>UI/UX</code></sup>   
 - :spades: Anjas Pranita Chandra <sup><code>Developer</code></sup>
 - :hearts: Fakhreza Aldino <sup><code>Tester</code></sup>
@@ -10,4 +15,4 @@
 <br>
 
 > [!IMPORTANT]
-> **<code style="color : lightskyblue">Mitra Naima Sustainabilty Bidang Employee Computing.</code>**
+> **<code style="color : lightskyblue">Mitra Naima Sustainabilty Bidang Employee Computing</code>**
