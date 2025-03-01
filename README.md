@@ -7,4 +7,4 @@
    - UI/UX           : Fitrah Septiandwi Sensi
 
 > [!IMPORTANT]
-> **Mitra Naima Sustainabilty Bidang Employee Computing.**
+> **<code style="color : lightskyblue">Mitra Naima Sustainabilty Bidang Employee Computing.</code>**
