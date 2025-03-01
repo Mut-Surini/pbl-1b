@@ -1,6 +1,6 @@
 # Project Based Learning TRPL 1 B
 
-- Project Manager    : Fitrah Septiandwi Sensi
+- Fitrah Septiandwi Sensi <sup><code>Project Manager</code></sup> <sup>UI/UX</sup>
    - Developer       : Anjas Pranita Chandra
    - Tester          : Fakhreza Aldino
    - Tecnical Writer : Hans Surya Cendikia
