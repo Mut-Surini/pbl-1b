@@ -3,7 +3,7 @@
 <br>
 
 > [!NOTE]
-> **NAMA PROJECT**<br>
+> ```**NAMA PROJECT**```<br>
 > **<code style="color : lightskyblue">Aplikasi Pengelolaan Data dan Perhitungan Emisi Karbon Perjalanan Karyawan Dari Rumah Ke Kantor (Employee Computing)</code>**
 
 <br>
@@ -16,5 +16,5 @@
 <br>
 
 > [!IMPORTANT]
-> **MITRA**<br>
+> ```**MITRA**```<br>
 > **<code style="color : lightskyblue">Naima Sustainabilty Bidang Employee Computing</code>**
