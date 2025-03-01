@@ -2,7 +2,7 @@
 
 <br>
 
-> [!INFO]
+> [!NOTE]
 > **NAMA PROJECT**
 > **<code style="color : lightskyblue">Aplikasi Pengelolaan Data dan Perhitungan Emisi Karbon Perjalanan Karyawan Dari Rumah Ke Kantor (Employee Computing)</code>**
 
