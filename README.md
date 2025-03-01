@@ -11,10 +11,10 @@
 
 > [!NOTE]
 > **NAMA PROJECT**<br>
-> Aplikasi Pengelolaan Data dan Perhitungan Emisi Karbon Perjalanan Karyawan Dari Rumah Ke Kantor (Employee Computing)
+> ```Aplikasi Pengelolaan Data dan Perhitungan Emisi Karbon Perjalanan Karyawan Dari Rumah Ke Kantor (Employee Commuting)```
 
 <br>
 
 > [!IMPORTANT]
 > **MITRA**<br>
-> Naima Sustainabilty Bidang Employee Computing
+> ```Naima Sustainabilty Bidang Employee Commuting```
