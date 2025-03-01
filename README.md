@@ -7,4 +7,4 @@
    - UI/UX           : Fitrah Septiandwi Sensi
 
 > [!IMPORTANT]
-> Mitra Naima Sustainabilty Bidang Employee Computing.
+> **Mitra Naima Sustainabilty Bidang Employee Computing.**
