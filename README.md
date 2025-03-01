@@ -1,2 +1,10 @@
-# pbl-1b
-Project Based Learning TRPL 1 B
+# Project Based Learning TRPL 1 B
+
+- Project Manager    : Fitrah Septiandwi Sensi
+   - Developer       : Anjas Pranita Chandra
+   - Tester          : Fakhreza Aldino
+   - Tecnical Writer : Hans Surya Cendikia
+   - UI/UX           : Fitrah Septiandwi Sensi
+
+> [!NOTE]
+> Mitra : Naima Sustainabilty Bidang Employee Computing.
