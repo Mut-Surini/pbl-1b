@@ -1,10 +1,9 @@
 # Project Based Learning TRPL 1 B
 
-- Fitrah Septiandwi Sensi <sup><code>Project Manager</code></sup> <sup>UI/UX</sup>
-   - Developer       : Anjas Pranita Chandra
-   - Tester          : Fakhreza Aldino
-   - Tecnical Writer : Hans Surya Cendikia
-   - UI/UX           : Fitrah Septiandwi Sensi
+:diamonds: Fitrah Septiandwi Sensi <sup><code>**Project Manager**</code></sup> <sup><code>UI/UX</code></sup>
+   :spades: Anjas Pranita Chandra <sup><code>Developer</code></sup>
+   :hearts: Fakhreza Aldino <sup><code>Tester</code></sup>
+   :clubs: Hans Surya Cendikia <sup><code>Technical Writer</code></sup>
 
 > [!IMPORTANT]
 > **<code style="color : lightskyblue">Mitra Naima Sustainabilty Bidang Employee Computing.</code>**
