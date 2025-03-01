@@ -6,5 +6,5 @@
    - Tecnical Writer : Hans Surya Cendikia
    - UI/UX           : Fitrah Septiandwi Sensi
 
-> [!NOTE]
-> Mitra : Naima Sustainabilty Bidang Employee Computing.
+> [!IMPORTANT]
+> Mitra Naima Sustainabilty Bidang Employee Computing.
